@@ -46,3 +46,13 @@ Requirements:
 Python 3.x
 
 No external libraries required (all tasks use Python’s standard library)
+
+ Intern Details
+ 
+Name: Geetha Mudhiraj
+
+Internship: CodSoft – Python Programming Internship
+
+Email:kolkuridhanalaxmi@gmail.com
+
+GitHub: https://github.com/GeethaMudhiraj
