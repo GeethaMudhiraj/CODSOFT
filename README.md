@@ -30,13 +30,19 @@ A simple contact book that allows adding, searching, updating, and deleting cont
    git clone https://github.com/GeethaMudhiraj/CODSOFT.git
    cd CODSOFT
 Run the desired task
+
 python task1_todolist.py
+
 python task2_calculator.py
+
 python task3_passwordgenerator.py
+
 python task4_rockpaperscissors.py
+
 python task5_contactbook.py
 
 Requirements:
-* Python 3.x
 
-*No external libraries required (all tasks use Python’s standard library)
+Python 3.x
+
+No external libraries required (all tasks use Python’s standard library)
